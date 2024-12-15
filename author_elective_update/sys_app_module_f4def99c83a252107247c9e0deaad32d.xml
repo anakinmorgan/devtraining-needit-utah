@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>false</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Test2 for users only</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Test2</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-14 11:08:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f4def99c83a252107247c9e0deaad32d</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Test2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_f4def99c83a252107247c9e0deaad32d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-14 22:52:24</sys_updated_on>
+        <timeline_page/>
+        <title>Test2</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0e9aeadedb3ef9d0caf99027c596197c</instance_id>
+        <instance_name>dev230932</instance_name>
+        <name>sys_app_module_f4def99c83a252107247c9e0deaad32d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>false</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint>Test2 for users only</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Test2</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_needit</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-14 11:08:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f4def99c83a252107247c9e0deaad32d</sys_id><sys_mod_count>8</sys_mod_count><sys_name>Test2</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_f4def99c83a252107247c9e0deaad32d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-14 22:52:24</sys_updated_on><timeline_page/><title>Test2</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>277115838</payload_hash>
+        <record_name>Test2</record_name>
+        <reverted_from/>
+        <source>b7268640832212107247c9e0deaad3d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-14 22:52:24</sys_created_on>
+        <sys_id>a1ff902c83ae52107247c9e0deaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193c75f7caf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-14 22:52:24</sys_updated_on>
+        <type>Module</type>
+        <update_guid>29ff902cbbae521023deec4037db77d6</update_guid>
+        <update_guid_history>29ff902cbbae521023deec4037db77d6:277115838,e6bf5ce87cae5210b6af8d1e52ab219d:-752797325,37dd435c4a2a5210a03580fc9daa890f:-335988366,eeddc3d8fce6521061a8d31d8f47cc96:-752797325,55e8f2544ee65210ccb17d3ddc415852:-335988366,6b608a50e8e2521055309ea45fbefb18:-2069536993,1a000650b6e252107a45282ca445a75a:1433494757,0c5f3d9c29a252105610cd4037ac13d6:-2069536993,e1febd9c9ea2521026d7693803729f49:391573740</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test2">4100ace883ae52107247c9e0deaad33e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-14 22:52:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>e384df04904c42588097e15dea81b440</sys_id>
+        <sys_metadata>f4def99c83a252107247c9e0deaad32d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_f4def99c83a252107247c9e0deaad32d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f4def99c83a252107247c9e0deaad32d">a1ff902c83ae52107247c9e0deaad3d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-14 22:52:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
